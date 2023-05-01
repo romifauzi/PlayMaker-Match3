@@ -14,3 +14,6 @@ The referenced script on this Behaviour (Game Object 'Cube_Bounce') is missing!
 Then try to inspect the game object, search for the missing component, and try to re-link it, 
 by type "PlaymakerFSM" in the filter when re-linking the script and select the 
 one with "Plugins/Playmaker/Playmaker.dll" as the path
+
+You will also need to add a global variable called "gravity" (this is case sensitive, so type it exactly as written here),
+and set the value to any negative value, I usually set it to -10.
