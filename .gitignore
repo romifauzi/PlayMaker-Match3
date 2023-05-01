@@ -73,3 +73,6 @@ crashlytics-build.properties
 
 # Playmaker Addons
 /[Aa]ssets/[Pp]lay[Mm]aker
+/[Aa]ssets/[Pp]lugins/[Pp]lay[Mm]aker
+/[Aa]ssets/[Pp]lugins.meta
+/[Aa]ssets/[Pp]lugins/[Pp]lay[Mm]aker.meta
